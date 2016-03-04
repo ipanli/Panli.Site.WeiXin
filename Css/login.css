@@ -1,0 +1,24 @@
+
+.clear{ clear:both;}
+.login{margin:auto;padding:10px 0 55px 0; margin:0 3%;}
+.login dd{ padding:20px 30px; height:40px;  border:solid 1px #525252; border-radius:10px; position:relative; }
+.login dt{line-height:30px;font-size:2.28em; margin-bottom:20px; }
+.login dl{margin-bottom:50px;}
+.login dl input{width:100%;font-size:2.28em; height:100%; background:none; border:none;font-family: "Microsoft YaHei"; color:#333; }
+.tijiao a,.zhuce a{ height:90px; line-height:90px; border:0;color:#fff; font-size:3em; width:100%; background-color:#ffc000; font-family: "Microsoft YaHei";border-radius:10px; text-decoration:none; display:block; text-align:center; }
+.tijiao,.zhuce{padding-top:15px;float:left;width:47%;}
+.tijiao{ margin-right:3%;}
+.zhuce{margin-left:3%;}
+.zhuce a{ background-color:#67b91a;  }
+.wrong{width:170px;margin:50px auto 50px auto;background:#fbffdf url(/Content/image/login/cuo.gif) no-repeat 20px 30px;border:#ffc55f solid 1px;padding:30px 10px 30px 70px;}
+.wrong p{font-size:14px;line-height:24px;padding-bottom:15px;}
+.fanhui{height:38px;}
+.fanhui a{background:url(/Content/image/login/fanhui.gif) no-repeat 0 0;height:38px;width:100px;border:0;font-size:14px;color:#333;text-align:center;text-decoration:none;float:left;line-height:35px;}
+
+.Captchadd{ margin-right:265px;}
+#ImgCode{position:absolute; right:-265px; top:10px; }
+
+.login img {float:left;height:55px;margin-left:5px;cursor:pointer;}
+.login dl .h{color:#bbb;}
+
+

@@ -1,0 +1,30 @@
+.register{margin:auto;padding:10px 0 55px 0; margin:0 3%;}
+.register dd{ padding:20px 30px; height:40px;  border:solid 1px #525252; border-radius:10px; position:relative; margin-bottom:30px; }
+.register dt{font-size:12px;color:#bbb;}
+.register dl{margin-bottom:8px;}
+.register dl input{width:100%;font-size:2.28em; height:100%; background:none; border:none;font-family: "Microsoft YaHei"; color:#333; }
+.register dl .h{color:#bbb;}
+.register dl .z{color:#666;}
+.register dl .r{color:#f00;}
+.register img {float:left;height:55px;margin-left:5px;cursor:pointer;}
+
+.tijiao{padding-top:10px;clear:both;}
+.tijiao label input{float:left;margin-right:3px;display:inline; width:40px; height:40px;}
+.tijiao label input:checked{ background-color:#58c921;}
+
+.tijiao span{display:block;height:40px; font-size:2.28em; color:#e7355f; }
+.tijiao span a{ color:#e7355f; text-decoration:none;}
+
+.button,.button_{  width:100%; text-align:center; background-color:#67b91a; height:90px; line-height:90px; border:none;color:#FFFFFF;font-size:3em; border-radius:10px;font-family: "Microsoft YaHei"; margin-top:60px; text-decoration:none; display:block; text-align:center;  }
+
+.succeed{width:170px;margin:50px auto 50px auto;background:#fbffdf url(/content/image/login/succeed.gif) no-repeat 20px 30px;border:#ffc55f solid 1px;padding:30px 10px 30px 70px;}
+.succeed p{font-size:14px;line-height:24px;padding-bottom:15px;color:#090;}
+.succeed span{font-size:12px;line-height:22px;}
+.succeed a{color:#71a8cf;}
+.succeed a:hover{color:#f00;text-decoration:none;}
+.fanhui{height:38px;}
+.fanhui a{background:url(/content/img/login/fanhui.gif) no-repeat 0 0;height:38px;width:100px;border:0;font-size:14px;color:#333;text-align:center;text-decoration:none;float:left;line-height:35px;}
+
+
+.Captchadd{ margin-right:265px;}
+#ImgCode{position:absolute; right:-265px; top:10px; }
